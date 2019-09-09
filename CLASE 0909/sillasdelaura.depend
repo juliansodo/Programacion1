@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1568035648 source:c:\users\alumno\desktop\sillas de laura\sillasdelaura\extras.c
+
+1568035627 source:c:\users\alumno\desktop\sillas de laura\sillasdelaura\main.c
+	"extras.h"
+
+1568033547 c:\users\alumno\desktop\sillas de laura\sillasdelaura\extras.h
+	<stdio.h>
+	<stdlib.h>
+
+1568035586 source:c:\users\alumno\desktop\sillas de laura\sillasdelaura\sistema.c
+
